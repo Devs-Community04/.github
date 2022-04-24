@@ -25,14 +25,14 @@ We are @Devs-Community04. We are the noob programmers & we likes to surf online.
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
  
+  
+  <a href="https://github.com/Devs-Community04">
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://facebook.com/community.dev.04">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
     
   </a>
-  <a href="https://github.com/Devs-Community04">
-    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
 </div>
 
 ## Our Skills
