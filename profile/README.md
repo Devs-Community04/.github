@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="banner.pnh" width="100%"/>
+  <img src="banner.jpg" width="100%"/>
 </div>
 
 <br>
@@ -7,6 +7,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+## About Us
+
+Hey,
+
+We are @Devs-Community04. We are the noob programmers & we likes to surf online. We don't know any programming language yet but we will try to create new things.
+
+- 🌱 Noob Programmers.
+- 🙂 Trying to do something.
+
 
 ## Our Social Media
 
