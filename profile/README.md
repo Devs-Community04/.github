@@ -48,7 +48,6 @@ We are @Devs-Community04. We are the noob programmers & we likes to surf online.
 
 ## Top Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devs-community04&layout=compact&theme=dark)
 
 <br>
 
