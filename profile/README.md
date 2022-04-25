@@ -48,10 +48,10 @@ We are @Devs-Community04. We are the noob programmers & we likes to surf online.
 
 ## Top Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-community04&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devs-community04&layout=compact&theme=dark)
 
 <br>
 
 ## TOTAL VIEW :
 
-![Visitor Count](https://profile-counter.glitch.me/dev-community04/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/devs-community04/count.svg)
